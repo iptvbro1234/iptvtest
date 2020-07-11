@@ -18,7 +18,4 @@ http://internetowa.tv/?c=hlsPlay&channel=eleven3&token=04930f46ae574effac95f6edf
 http://internetowa.tv/?c=hlsPlay&channel=eleven4&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Eleven Sports 2
 http://internetowa.tv/?c=hlsPlay&channel=eleven2&token=04930f46ae574effac95f6edf37c5d2cfcf7e20168d6de081e120cf9311d1f44051cdf2b4e0c327af5d01747e36b74f60e62f9f349d99bf22662ed631d52eedb&checkedby:iptvcat.com
-#EXTINF:0 tvg-country="SE" tvg-logo="" group-title="Sport",Viasat_Sport_Premium_HD
-http://mhiptv.com:8888/naeem/naeem123/5479?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Viasat Sport
-http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8?checkedby:iptvcat.com
+
