@@ -4,11 +4,7 @@
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GE" tvg-logo="https://i.imgur.com/mOkpenX.png" group-title="Sport",Adjara Sports 2,SPORT : Adjarasport 2,SPORT | Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Setanta Sports 1
-https://95-213-224-186.livesports24.online/rusetantaeurasia.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Setanta Sports 2
-https://95-213-224-186.livesports24.online/setantaplusru.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/FYFyrwt.png" group-title="Sport",SPORT : CBC Sport,SPORT | CBC Sport
 http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Movistar Liga de Campeones HD (1080)
-http://www.bbip.tv:8080/vicente/vicente/4403?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" group-title="Sport",SPORT : Match Sport 1
+http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8?checkedby:iptvcat.com
