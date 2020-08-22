@@ -6,6 +6,6 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8?checkedby:iptvcat
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/FYFyrwt.png" group-title="Sport",SPORT : CBC Sport,SPORT | CBC Sport
 http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="UN" group-title="Sport",FOX SPORT 2 4K
-http://forceie.com:2082/sony123/sony123/59414?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" group-title="Sport",SPORT TV 4K
+http://forceie.com:2082/sony123/sony123/58922?checkedby:iptvcat.com
 
